@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bkmnft
 - 👀 I’m interested in Blockchain
 - 🌱 I’m currently learning Python and Solidity
-- 💞️ I’m looking to collaborate on Cor Blockchain Development
+- 💞️ I’m looking to collaborate on Core Blockchain Development
 - 📫 Find me on twitter @bkmnft
 - 🙂 I'm just a Begginer
 <!---
